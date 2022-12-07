@@ -41,4 +41,4 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 
 The following images show the web application's appearance and functionality:
 
-![Existing notes are listed in the left-hand column with empty fields on the right-hand side for the new note’s title and text.](./Main/imgs/notetaker.png)
+![Existing notes are listed in the left-hand column with empty fields on the right-hand side for the new note’s title and text.](./Main/imgs/notetaker.png)(https://drive.google.com/file/d/191nFVscrjIwoFna6men9mvvFXrK40ae3/view)
